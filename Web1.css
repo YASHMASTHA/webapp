@@ -1,0 +1,21 @@
+.a{
+    color: cadetblue;
+    text-align: center;
+}
+ul{
+  color:darkcyan;
+}
+h2{
+    color: teal;
+}
+body{
+    background-image: url('h.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+a{
+    color: rgb(25, 92, 192);
+}
+p{
+   color: brown;
+}
