@@ -19,3 +19,27 @@ a{
 p{
    color: brown;
 }
+.s:link{
+  color: blue;
+}
+.s:visited{
+    color: rebeccapurple;
+}
+.s:hover{
+    color: brown;
+}
+.s:active{
+    color: aquamarine;
+}
+.t:link{
+    color: blue;
+}
+.t:visited{
+    color: cornflowerblue;
+}
+.t:hover{
+    color: skyblue;
+}
+.t:active{
+    color: crimson;
+}
