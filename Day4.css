@@ -1,0 +1,39 @@
+p{
+    background-color: aquamarine;
+}
+ /* 0,0,0,1  */
+    /* (inline style xaena ,id xaena ,class xaena ,element xa*/ */
+
+/* color class ko display hunxa kina vane class ko priority first dinxa */
+/* priority jun ko 1 hunxa tesko value display garxa  */
+/* # 1uta browser ma 1uta spacing hoss */
+/* priority  */
+/* modifier ko lagi  double __*/
+/* element ko lagi _*/
+/* red box vaneko sabai ko content same time ma change garnu paryo vane use garne */
+
+body > p {
+     background-color:wheat;
+}
+
+.title{
+    background-color: aqua;
+}
+#id-title.title{
+    background-color: violet;
+}
+#id-body #id-title.title{
+    background-color: thistle;
+}
+#id-body #id-title.title{
+    background-color:steelblue;
+}
+.container{
+    padding: 0,0,0,20px;
+    background-color: thistle;
+}
+
+.b{
+    background-color: teal;
+}
+

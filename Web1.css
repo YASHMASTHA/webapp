@@ -5,9 +5,15 @@
 ul{
   color:darkcyan;
 }
+/* .item{ 
+    flex-grow: 4; */
+/* }
+@media only screen and (max-width:600px){ */
 h2{
     color: teal;
 }
+
+
 body{
     background-image: url('h.jpg');
     background-repeat: no-repeat;
